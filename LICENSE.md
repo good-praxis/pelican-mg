@@ -1,6 +1,7 @@
 The MIT License (MIT)
 
-Copyright (c) 2015 Luca Chiricozzi
+Copyright (c) for portions of praxis-mg are held by Luca Chiricozzi, 2015 as part of mg.
+All other copyright (c) for praxis-mg are held by Praxis, 2018.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
