@@ -1,6 +1,11 @@
 html {
   font: 400 14px / 20px "K2D", "Helvetica Neue",Helvetica,Arial,sans-serif; }
 
+h1 {
+  display: inline;
+  
+}
+
 a {
   color: #33b5e5; }
   a:hover {
