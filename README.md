@@ -117,7 +117,6 @@ in the footer icons of the small screen layout.
 e.g.   
 ```python
     SOCIAL = (('twitter', 'https://twitter.com/luca_chr'),
-              ('google-plus-square', 'https://plus.google.com/117284397605208270870'),
               ('github', 'https://github.com/lucachr'),
               ('envelope', 'mailto:luca92web@gmail.com'),)
 ```
@@ -155,7 +154,6 @@ This is the settings file for Dev's Bytes.
 
     # Social widget
     SOCIAL = (('twitter', 'https://twitter.com/luca_chr'),
-              ('google-plus-square', 'https://plus.google.com/+LucaChiricozzi'),
               ('github', 'https://github.com/lucachr'),
               ('envelope', 'mailto:luca92web@gmail.com'),)
 
